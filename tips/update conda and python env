@@ -1,0 +1,20 @@
+**Create environment**
+conda create --name {environment name} python={python version}
+
+**Activate environment**
+activate {environment name}
+
+1. Open anaconda prompt as admin
+2. Update Anaconda
+Enter the following code into the prompt and click enter on your keyboard:
+conda update --all
+Wait for the updates to complete.
+
+3. Enter python into the prompt and click enter on your keyboard.
+Enter the following code into the prompt and click enter on your keyboard:
+import pkg_resources
+from subprocess import call
+
+packages = [dist.project_name for dist in pkg_resources.working_set]
+call("pip install --upgrade --user " + ' '.join(packages), shell=True)
+You’ll soon need to click the enter key again and then you will wait awhile for the updates to complete.
