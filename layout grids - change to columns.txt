@@ -1,0 +1,7 @@
+layout grids - change to columns
+for mobile columns 4 margin 24 gutter(space between columns 16)
+for desktop columns 16 margin 64 gutter 16
+
+Note : If hold alt and drag element down same element of same dimensions is duplicated
+
+for icons and photos : https://thenounproject.com/
