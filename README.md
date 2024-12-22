@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ateeth Arun</h1>
-<h3 align="center">I am quite interested in the world of Data Science</h3>
+<h3 align="center">I am quite interested in the world of Data Science and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ateeth&label=Profile%20views&color=0e75b6&style=flat" alt="ateeth" /> </p>
 
@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ateetharun" target="blank"><img src="https://img.shields.io/twitter/follow/ateetharun?logo=twitter&style=for-the-badge" alt="ateetharun" /></a> </p>
 
-- 🔭 I’m going to join **Bosch Global Software Technologies, India**
+- 🔭 I am currently working at **Bosch Global Software Technologies, India**
 
-- 🌱 I’m currently learning **Machine learning**
-
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning and Web Development projects**
 
 - 💬 Ask me about **Web Development , Machine Learning**
 
